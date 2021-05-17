@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  EventTicketing
+
+  Created by Quan Tran on 6/18/20.
+  Copyright © 2020 Quan Tran. All rights reserved.
+*/
+
+NSCameraUsageDescription = "Ứng dụng này cần quyền truy cập Camera để scan mã QR";
+NSPhotoLibraryAddUsageDescription = "Ứng dụng này cần quyền truy cập Thư viện ảnh để lưu mã QR";
+NSPhotoLibraryUsageDescription = "Ứng dụng này cần quyền truy cập Thư viện ảnh để lưu mã QR";

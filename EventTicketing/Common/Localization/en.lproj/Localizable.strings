@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  EventTicketing
+
+  Created by Quan Tran on 6/18/20.
+  Copyright © 2020 Quan Tran. All rights reserved.
+*/
+
+"done" = "Done";
+"cancel" = "Cancel";
+"loading" = "Loading...";
+"edit" = "Edit";
+"delete" = "Delete";
+"search" = "Search...";
+
+"database" = "Database";
+"customers" = "Customers";
+"scanner" = "Scan Ticket";
+"settings" = "Settings";
+
+"order" = "Order";
+"ticket" = "Ticket";
+
+"name" = "Name";
+"phone" = "Phone";
+"email" = "Email";
+"quantity" = "Quantity";
+"createdAt" = "Created at";
+"updatedAt" = "Updated at";
+"verified" = "Verified";
+"verifiedAt" = "Verified at";
+"sent" = "Sent";
+"sentAt" = "Sent at";
+
+"save" = "Save";
+"send" = "Send";
+"share" = "Share";
+"verify" = "Verify";
+
+"success" = "Success";
+"error" = "Error";
+
+"ticket.saveSuccess" = "Ticket has been saved to the Photo Library";
+"ticket.saveFailed" = "Failed to save the ticket to the Photo Library: %@";
+"ticket.buyFailed" = "Failed to buy the ticket. Please contact the developer for more help";
+"ticket.verifySuccess" = "Ticket has been successfully verified";
+"ticket.verifyFailed" = "Failed to verify the ticket. Please try again";
+"ticket.alreadyVerified" = "Ticket has already been verified";
+"ticket.notValid" = "Ticket is not valid";
+
+"askChangePermissionSettings" = "To give app permissions tap on \"Change Settings\" button";
+"changeSettings" = "Change Settings";
+
+"language" = "Language";
+"sendOption" = "Send ticket option";
+
+"defaultMail" = "Default Mail";
+"sendGrid" = "SendGrid";
+
+"verifyTicketAutomatically" = "Verify ticket automatically";
+"alwaysOnScanner" = "Always-on Scanner";
+
+"sendGrid.sendSuccess" = "Ticket has been successfully sent";
+"sendGrid.sendFailed" = "Failed to send the ticket: %@";
+"sendGrid.apiKeyNotFound" = "Failed to retrieve SendGrid API key";
+
+"deviceCannotSendMail" = "Your device can not send mail using Mail application";
+
+"about" = "About";
+"about.quanshousio" = "@quanshousio - doing stuffs xD";
+"about.cdsl" = "@cdslthemovement - An art collective based in Hanoi, Vietnam";
+
+"version" = "Version";
+"extras" = "Extras";
+"fireworks" = "Fireworks";
+
+"camera.failedToInitialize" = "Failed to initialize the camera session";
+"camera.failedToResume" = "Failed to resume the camera session";
+"camera.failedToInterrupt" = "Failed to interrupt the camera session";
+
+"identification" = "Identification";
+"personalInformation" = "Personal Information";
+"verification" = "Verification";

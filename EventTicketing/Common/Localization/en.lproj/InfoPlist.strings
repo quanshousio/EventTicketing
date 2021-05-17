@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  EventTicketing
+
+  Created by Quan Tran on 6/18/20.
+  Copyright © 2020 Quan Tran. All rights reserved.
+*/
+
+NSCameraUsageDescription = "This app needs Camera to scan QR codes";
+NSPhotoLibraryAddUsageDescription = "This app needs Photo Library to save QR codes";
+NSPhotoLibraryUsageDescription = "This app needs Photo Library to save QR codes";

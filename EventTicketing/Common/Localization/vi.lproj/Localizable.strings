@@ -1,0 +1,83 @@
+/* 
+  Localizable.strings
+  EventTicketing
+
+  Created by Quan Tran on 6/18/20.
+  Copyright © 2020 Quan Tran. All rights reserved.
+*/
+
+"done" = "Xong";
+"cancel" = "Huỷ";
+"loading" = "Đang xử lý...";
+"edit" = "Sửa";
+"delete" = "Xoá";
+"search" = "Tìm kiếm...";
+
+"database" = "Cơ sở dữ liệu";
+"customers" = "Khách hàng";
+"scanner" = "Scan vé";
+"settings" = "Cài đặt";
+
+"order" = "Mua vé";
+"ticket" = "Vé";
+
+"name" = "Họ tên";
+"phone" = "Điện thoại";
+"email" = "Email";
+"quantity" = "Số lượng";
+"createdAt" = "Thời gian tạo";
+"updatedAt" = "Thời gian cập nhật";
+"verified" = "Đã xác nhận";
+"verifiedAt" = "Thời gian xác nhận";
+"sent" = "Đã gửi";
+"sentAt" = "Thời gian gửi";
+
+"save" = "Lưu";
+"send" = "Gửi";
+"share" = "Chia sẻ";
+"verify" = "Xác nhận";
+
+"success" = "Thành công";
+"error" = "Lỗi";
+
+"ticket.saveSuccess" = "Vé đã được lưu vào Cuộn camera";
+"ticket.saveFailed" = "Đã có lỗi xảy ra khi lưu vé vào Cuộn camera: %@";
+"ticket.buyFailed" = "Đã có lỗi xảy ra khi mua vé. Vui lòng liên hệ nhà phát triển phần mềm để được giúp đỡ";
+"ticket.verifySuccess" = "Vé đã được xác nhận thành công";
+"ticket.verifyFailed" = "Đã có lỗi xảy ra khi xác nhận vé. Vui lòng thử lại sau";
+"ticket.alreadyVerified" = "Vé đã được xác nhận";
+"ticket.notValid" = "Vé không hợp lệ";
+
+"askChangePermissionSettings" = "Vui lòng bấm \"Cài đặt\" để cấp quyền sử dụng cho ứng dụng";
+"changeSettings" = "Cài đặt";
+
+"language" = "Ngôn ngữ";
+"sendOption" = "Phương tiện gửi vé";
+
+"defaultMail" = "Mail mặc định";
+"sendGrid" = "SendGrid";
+
+"verifyTicketAutomatically" = "Xác nhận vé ngay sau khi scan";
+"alwaysOnScanner" = "Luôn bật máy scan vé";
+
+"sendGrid.sendSuccess" = "Vé đã được gửi thành công";
+"sendGrid.sendFailed" = "Đã có lỗi xảy ra trong quá trình gửi vé: %@";
+"sendGrid.apiKeyNotFound" = "Không thể tìm thấy khoá API của SendGrid";
+
+"deviceCannotSendMail" = "Thiết bị của bạn không gửi thư được bằng ứng dụng Mail";
+
+"about" = "Giới thiệu";
+"about.quanshousio" = "@quanshousio - Làm app mệt thật xD";
+"about.cdsl" = "@cdslthemovement - Một dự án nghệ thuật ở Hà Nội, Việt Nam";
+
+"version" = "Phiên bản";
+"extras" = "Khác";
+"fireworks" = "Pháo hoa";
+
+"camera.failedToInitialize" = "Đã có lỗi xảy ra trong quá trình khởi tạo camera";
+"camera.failedToResume" = "Không thể khởi động lại tiến trình chạy camera";
+"camera.failedToInterrupt" = "Không thể tạm dừng tiến trình chạy camera";
+
+"identification" = "Thông tin định danh";
+"personalInformation" = "Thông tin cá nhân";
+"verification" = "Thông tin xác minh";

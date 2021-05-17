@@ -1,0 +1,11 @@
+xcassets:
+  inputs: ../Common/Assets
+  outputs:
+    templateName: swift4
+    output: ../Common/Generated/Assets.swift
+
+strings:
+  inputs: ../Common/Localization/en.lproj/Localizable.strings
+  outputs:
+    templateName: structured-swift4
+    output: ../Common/Generated/Strings.swift
